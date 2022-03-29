@@ -5,7 +5,6 @@
   "author": "Venryx (https://venryx.com)",
   "main": "Dist/index.js",
   "typings": "Dist/index.d.ts",
-  "type": "module",
   "license": "MIT",
   "repository": {
     "type": "git",
