@@ -2,10 +2,9 @@
 	"compilerOptions": {
 		"rootDir": "Source",
 		//"sourceMap": true, // commented; doesn't work currently, so keeping Dist folder cleaner
-		"module": "ES2015",
+		"module": "commonjs",
 		"moduleResolution": "node",
-		"target": "ES2017",
-		"jsx": "react",
+		"target": "es6",
 		"noImplicitAny": false,
 		"experimentalDecorators": true,
 		"allowSyntheticDefaultImports": true, // doesn't modify output, *or* own import code (it's just for type-checking)
